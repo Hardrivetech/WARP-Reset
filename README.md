@@ -61,6 +61,6 @@ C:\WARP-Reset\
 
 ## ⚖️ License
 
-This project is licensed under the MIT License. See the [LICENSE] file for full details.
+This project is licensed under the MIT License. See the [License](LICENSE) file for full details.
 
 Built for reliability and transparency.
