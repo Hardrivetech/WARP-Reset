@@ -1,5 +1,8 @@
 # WARP-Reset 🚀
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+*See the [LICENSE](LICENSE) file for more information.*
+
 A robust, production-ready PowerShell utility designed to manage the Cloudflare WARP service. This script handles service lifecycle, IP tracking, and logging, providing a seamless way to force an IP rotation for the WARP tunnel.
 
 ## 📋 Features
